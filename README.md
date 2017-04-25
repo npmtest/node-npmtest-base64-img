@@ -1,6 +1,6 @@
 # npmtest-base64-img
 
-#### test coverage for  [base64-img (v1.0.3)](https://github.com/douzi8/base64-img)  [![npm package](https://img.shields.io/npm/v/npmtest-base64-img.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-base64-img) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-base64-img.svg)](https://travis-ci.org/npmtest/node-npmtest-base64-img)
+#### basic test coverage for  [base64-img (v1.0.3)](https://github.com/douzi8/base64-img)  [![npm package](https://img.shields.io/npm/v/npmtest-base64-img.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-base64-img) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-base64-img.svg)](https://travis-ci.org/npmtest/node-npmtest-base64-img)
 
 #### Convert img to base64, or convert base64 to img
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-base64-img/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-base64-img/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-base64-img/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-base64-img/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-base64-img/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-base64-img/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-base64-img/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-base64-img/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-base64-img/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-base64-img/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-base64-img/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-base64-img/build/coverage.html/index.html)
 
@@ -79,7 +79,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "bin": {}
 }
 ```
 

@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [base64-img (v1.0.3)](https://github.com/douzi8/base64-img)  [![npm package](https://img.shields.io/npm/v/npmtest-base64-img.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-base64-img) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-base64-img.svg)](https://travis-ci.org/npmtest/node-npmtest-base64-img)",
+    "description": "#### basic test coverage for  [base64-img (v1.0.3)](https://github.com/douzi8/base64-img)  [![npm package](https://img.shields.io/npm/v/npmtest-base64-img.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-base64-img) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-base64-img.svg)](https://travis-ci.org/npmtest/node-npmtest-base64-img)",
     "devDependencies": {
         "base64-img": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
